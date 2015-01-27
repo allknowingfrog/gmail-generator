@@ -4,7 +4,7 @@ Given a Gmail address and, optionally, a count (default is 10) this script will 
 
 ## How it Works
 
-Any Gmail addresses can be aliased by appending characters after a plus sign, i.e. `address@gmail.com, address+characters@gmail.com and address+17@gmail.com` all point to the same address. This script works by appending integers from 0 up to a given value. This list of addresses can be useful for testing mass emails without using multiple email accounts.
+Any Gmail addresses can be aliased by appending characters after a plus sign, i.e. `address@gmail.com, address+characters@gmail.com and address+17@gmail.com` all point to the same address. This script works by appending integers from 0 up to a given value. A list of alias addresses can be useful for testing mass emails without using multiple email accounts. This trick works for any Google-based email account, not just those ending in the gmail domain.
 
 ## Usage
 
