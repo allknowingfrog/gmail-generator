@@ -21,6 +21,6 @@ Call gmailGen.sh with a Gmail address and a count.
 
 For long lists, you may wish to output to a file.
 ```
-./gmailGen.sh address@gmail.com 12 > file.txt
+./gmailGen.sh address@gmail.com 120 > file.txt
 
 ```
